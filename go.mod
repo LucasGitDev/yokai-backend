@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-http-template
+module github.com/lucasgitdev/yokai-backend
 
 go 1.24
 
